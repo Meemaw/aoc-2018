@@ -16,6 +16,10 @@ Solutions to Advent of Code 2018 written in Java.
         src="https://api.codeclimate.com/v1/badges/e646bd0f0d4e6424842a/maintainability" />
   </a>
   
+  <a href="https://codecov.io/gh/Meemaw/aoc-2018">
+    <img src="https://codecov.io/gh/Meemaw/aoc-2018/branch/master/graph/badge.svg" />
+  </a>
+  
 </p>
 
 - [x] [Day 1: Chronal Calibration](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day1/Day1.java)
