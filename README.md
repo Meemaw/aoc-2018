@@ -25,4 +25,5 @@ Solutions to Advent of Code 2018 written in Java.
 - [x] [Day 1: Chronal Calibration](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day1/Day1.java)
 - [x] [Day 2: Inventory Management System](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day2/Day2.java)
 - [x] [Day 3: No Matter How You Slice It](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day3/Day3.java)
+- [x] [Day 4: Repose Record](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day4/Day4.java)
 
