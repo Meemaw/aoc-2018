@@ -2,15 +2,13 @@ package day5;
 
 import java.util.Comparator;
 import java.util.Stack;
-import java.util.stream.Collectors;
 
 public class Day5 {
 
     public static int part1(String input) {
-        Stack<Character> chars = input.chars().mapToObj(c -> (char) c).collect(Collectors.toCollection(Stack::new));
         Stack<Character> result = new Stack<>();
 
-        for (char c : chars) {
+        for (char c : input.toCharArray()) {
             if (result.isEmpty()) {
                 result.push(c);
             } else {
