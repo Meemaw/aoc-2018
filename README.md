@@ -28,4 +28,5 @@ Solutions to Advent of Code 2018 written in Java.
 - [x] [Day 4: Repose Record](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day4/Day4.java)
 - [x] [Day 5: Alchemical Reduction](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day5/Day5.java)
 - [x] [Day 6: Chronal Coordinates](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day6/Day6.java)
+- [x] [Day 7: The Sum of Its Parts](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day7/Day7.java)
 
