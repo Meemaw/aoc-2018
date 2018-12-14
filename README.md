@@ -32,5 +32,6 @@ Solutions to Advent of Code 2018 written in Java.
 - [x] [Day 8: Memory Maneuver](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day8/Day8.java)
 - [x] [Day 9: Marble Mania](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day9/Day9.java)
 - [x] [Day 10: The Stars Align](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day10/Day10.java)
-- [x] [Day 11: Chronal Charge](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day11/Day1.java)
+- [x] [Day 11: Chronal Charge](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day11/Day11.java)
+- [x] [Day 14: Chocolate Charts](https://github.com/Meemaw/aoc-2018/blob/master/src/main/java/day14/Day14.java)
 
